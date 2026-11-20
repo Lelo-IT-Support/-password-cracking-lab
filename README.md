@@ -59,24 +59,6 @@ These images are the flag-capture evidence provided for this repository. They ar
 - Understanding the basic workflow of dictionary-based password recovery.
 - Recognizing the importance of strong, unique passwords and authorized security testing.
 
-## Repository structure
-
-```text
-password-cracking-lab/
-├── README.md
-└── evidence/
-    ├── flag-01-cybersecurity-achievement.png
-    ├── flag-02-jtr-persistence-achievement.png
-    └── flag-03-networkwalks-achievement.png
-```
-
-## Notes
-
-- The training PDFs were used as project instructions and are intentionally not included in this repository.
-- No protected PDF files, extracted password hashes, or recovered passwords are included.
-- Before making this repository public, review the screenshots to ensure the visible challenge flag tokens are permitted to be shared publicly.
-- Add any additional screenshots of your actual tool workflow if you want to document each step in greater detail.
-
 ## Acknowledgement
 
 Training task materials: Networkwalks – Cybersecurity & Ethical Hacking Project Tasks.
