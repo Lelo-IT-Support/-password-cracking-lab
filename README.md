@@ -39,15 +39,16 @@ The project explores how password-protected PDF files can be assessed in a contr
 5. Start the dictionary-based cracking process and wait for the result.
 6. Use the recovered password to open the protected lab PDF.
 
-## Evidence
+## Evidence of Practical Work
 
-The `evidence/` folder contains the three original screenshots supplied for this portfolio:
+### Screenshot 1 – Cybersecurity Achievement
+![Cybersecurity Achievement](evidence/flag-01-cybersecurity-achievement.png)
 
-| Screenshot | Evidence description |
-|---|---|
-| `flag-01-cybersecurity-achievement.png` | Cybersecurity achievement flag |
-| `flag-02-jtr-persistence-achievement.png` | JTR persistence achievement flag |
-| `flag-03-networkwalks-achievement.png` | Networkwalks achievement flag |
+### Screenshot 2 – JTR Persistence Achievement
+![JTR Achievement](evidence/flag-02-jtr-persistence-achievement.png)
+
+### Screenshot 3 – Networkwalks Achievement
+![Networkwalks Achievement](evidence/flag-03-networkwalks-achievement.png)
 
 These images are the flag-capture evidence provided for this repository. They are not step-by-step screenshots of every action in the two modules.
 
